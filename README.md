@@ -1,5 +1,5 @@
 # Intern-tasks
-This repository contains all the tasks that were completed during my Business Intelligence & Analytics internship at The Sparks Foundation. 
+This repository contains all the tasks that I completed during my Business Intelligence & Analytics internship at The Sparks Foundation. 
 
 Tasks completed:
 
